@@ -1,3 +1,4 @@
+![logo](https://github.com/muthirevulatharun-netizen/muthirevulatharun-netizen/blob/main/github%20baner.jpeg)
 <h1 align="center">Hi 👋, I'm Muthirevula Tharun Reddy</h1>
 <h3 align="center">Engineering Student at Madanapalle Institute of Technology & Science | Python Programmer | Open to Learning</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
